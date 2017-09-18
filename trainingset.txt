@@ -1,0 +1,4985 @@
+워싱턴 LOCATION
+DC LOCATION
+100 O
+배 O
+즐기 O
+기 O
+.  O
+ 
+ 
+뉴욕 LOCATION
+의 O
+디저트 FOOD
+여행 O
+.  O
+ 
+ 
+( O
+It O
+' O
+s O
+the O
+Busan LOCATION
+) O
+부산 LOCATION
+을 O
+걷 O
+다 O
+놀 O
+다 O
+빠지 O
+다 O
+.  O
+ 
+ 
+동경 O
+과 O
+월경 O
+의 O
+순간 O
+들 O
+.  O
+ 
+ 
+오늘 O
+도 O
+내일 O
+로 O
+.  O
+ 
+ 
+여왕 O
+의 O
+입맛 O
+을 O
+훔친 O
+홍차 FOOD
+를 O
+만나 O
+다 O
+.  O
+ 
+ 
+( O
+가슴 O
+이 O
+뛰 O
+는 O
+방향 O
+으로 O
+) O
+청춘 O
+로드 O
+.  O
+ 
+ 
+수도권 LOCATION
+둘레길 LOCATION
+여행 O
+바이블 O
+.  O
+ 
+ 
+터키 LOCATION
+1 O
+만 O
+년 O
+의 O
+시간 O
+여행 O
+1 O
+.  O
+ 
+ 
+미국 LOCATION
+터키 LOCATION
+1 O
+만 O
+년 O
+의 O
+시간 O
+여행 O
+1 O
+.  O
+ 
+ 
+미국 LOCATION
+의 O
+아들 O
+.  O
+ 
+ 
+태양 O
+의 O
+돌 O
+.  O
+ 
+ 
+( O
+철인 O
+황제 O
+) O
+마르쿠스 PERSON
+아우렐리우스 PERSON
+.  O
+ 
+ 
+인도 LOCATION
+에서 O
+만나 O
+는 O
+종교 O
+와 O
+문화 O
+.  O
+ 
+ 
+브라질 LOCATION
+의 O
+역사 O
+.  O
+ 
+ 
+세상 O
+밖 O
+으로 O
+배낭 O
+을 O
+꾸려라 O
+.  O
+ 
+ 
+완전 O
+한 O
+승리 O
+바다 O
+의 O
+지배자 O
+.  O
+ 
+ 
+작 O
+은 O
+빵집 O
+이 O
+맛있 O
+다 O
+.  O
+ 
+ 
+모나리자 PERSON
+는 O
+왜 O
+루브르 LOCATION
+빵 FOOD
+이 O
+맛있 O
+다 O
+.  O
+ 
+ 
+모나리자 PERSON
+는 O
+왜 O
+루브르 LOCATION
+에 O
+있 O
+는가 O
+.  O
+ 
+ 
+사랑 O
+을 O
+알 O
+때 O
+까지 O
+걸어가 O
+라 O
+.  O
+ 
+ 
+세상 O
+어디 O
+에 O
+도 O
+없 O
+는 O
+세이셸 LOCATION
+.  O
+ 
+ 
+도시 O
+탐독 O
+.  O
+ 
+ 
+세상 O
+어디 O
+에 O
+도 O
+없 O
+는 O
+세이셸 LOCATION
+.  O
+ 
+ 
+( O
+엽기 O
+발 O
+랄 O
+건축 O
+학도 O
+의 O
+용감무쌍 O
+) O
+파리 O
+지 O
+앵 O
+다이어리 O
+.  O
+ 
+ 
+구경 O
+꾼 O
+의 O
+탄생 O
+.  O
+ 
+ 
+낭만 O
+빵 FOOD
+유랑 O
+기 O
+.  O
+ 
+ 
+끌리 O
+다 O
+거닐 O
+다 O
+홀리 O
+다 O
+.  O
+ 
+ 
+죽 O
+기 O
+전 O
+에 O
+꼭 O
+가 O
+봐야 O
+할 O
+여행지 O
+.  O
+ 
+ 
+( O
+초보 O
+캠퍼 O
+도 O
+쉽 O
+게 O
+떠나 O
+는 O
+) O
+대한민국 LOCATION
+오지 O
+캠 O
+핑장 O
+101 O
+.  O
+ 
+ 
+( O
+달콤 O
+함 O
+이 O
+번지 O
+는 O
+곳 O
+) O
+벨기에 LOCATION
+.  O
+ 
+ 
+그리스 LOCATION
+전쟁 O
+.  O
+ 
+ 
+어느 O
+날 O
+문득 O
+춘천 LOCATION
+전주 LOCATION
+경주 LOCATION
+.  O
+ 
+ 
+호주 LOCATION
+에서 O
+꼭 O
+가 O
+봐야 O
+할 O
+여행지 O
+100 O
+.  O
+ 
+ 
+산 O
+. O
+통권 O
+539 O
+호 O
+09 O
+.  O
+ 
+ 
+2014 O
+.  O
+ 
+ 
+산 O
+. O
+통권 O
+539 O
+호 O
+09 O
+.  O
+ 
+ 
+2014 O
+.  O
+ 
+ 
+20 O
+인 O
+뉴욕 O
+.  O
+ 
+ 
+안녕 O
+장마리 O
+도 O
+르 O
+파리 LOCATION
+뉴욕 LOCATION
+.  O
+ 
+ 
+안녕 O
+장마리 O
+도르 O
+파리 LOCATION
+의 O
+작 O
+은 O
+창문 O
+.  O
+ 
+ 
+여수 LOCATION
+ㆍ O
+순천 LOCATION
+.  O
+ 
+ 
+원전 O
+으로 O
+읽 O
+는 O
+그리스 LOCATION
+신화 O
+.  O
+ 
+ 
+남극 LOCATION
+으로 O
+가 O
+는 O
+트랙터 O
+.  O
+ 
+ 
+자바 O
+의 O
+사원 O
+과 O
+유적 O
+.  O
+ 
+ 
+비엔나 LOCATION
+차차차 O
+.  O
+ 
+ 
+북극 LOCATION
+여행자 O
+.  O
+ 
+ 
+정ㆍ한 O
+사전 O
+.  O
+ 
+ 
+뿌리깊 O
+은 O
+인명 O
+이야기 O
+.  O
+ 
+ 
+중국 LOCATION
+서남부 LOCATION
+.  O
+ 
+ 
+클로즈업 O
+일본 LOCATION
+.  O
+ 
+ 
+벤야멘타 O
+하인 O
+학교 O
+.  O
+ 
+ 
+세 O
+PD O
+의 O
+미식 O
+기행 O
+목포 LOCATION
+.  O
+ 
+ 
+피터 O
+브룩 O
+.  O
+ 
+ 
+독일 LOCATION
+어 O
+시간 O
+1 O
+.  O
+ 
+ 
+도둑 O
+일기 O
+.  O
+ 
+ 
+국립 O
+공원 O
+걷기 O
+여행 O
+.  O
+ 
+ 
+중동 LOCATION
+을 O
+여행 O
+하 O
+다 O
+.  O
+ 
+ 
+까 O
+미노 O
+데 O
+산 O
+띠 O
+아 O
+고 O
+여행 O
+안내서 O
+.  O
+ 
+ 
+굿모닝 O
+하와이 LOCATION
+.  O
+ 
+ 
+( O
+아이러브 O
+) O
+카페 O
+쓰 O
+아다 O
+.  O
+ 
+ 
+( O
+산 O
+넘 O
+고 O
+물 O
+건너 O
+) O
+아메리카 LOCATION
+캠핑 O
+로드 O
+.  O
+ 
+ 
+낭만 O
+쿠바 LOCATION
+.  O
+ 
+ 
+( O
+머리 O
+를 O
+비우 O
+고 O
+마음 O
+을 O
+다독이 O
+는 O
+) O
+그녀 O
+의 O
+첫 O
+번 O
+째 O
+걷 O
+기 O
+여행 O
+.  O
+ 
+ 
+고택 O
+에서 O
+빈둥거리 O
+다 O
+길 O
+을 O
+찾 O
+다 O
+.  O
+ 
+ 
+르네상스 O
+의 O
+마지막 O
+날 O
+들 O
+.  O
+ 
+ 
+( O
+경북 LOCATION
+의 O
+아름다운 O
+) O
+걷기 O
+여행 O
+.  O
+ 
+ 
+생각 O
+이 O
+막힐 O
+때 O
+break O
+! O
+.  O
+ 
+ 
+작 O
+은 O
+한옥 O
+한 O
+채 O
+를 O
+짓 O
+다 O
+.  O
+ 
+ 
+사물 O
+유람 O
+.  O
+ 
+ 
+좋 O
+아 O
+보이 O
+는 O
+것 O
+들 O
+의 O
+비밀 O
+, O
+인포 O
+그래픽 O
+.  O
+ 
+ 
+시베리아 LOCATION
+의 O
+위대 O
+한 O
+영혼 O
+.  O
+ 
+ 
+궁극 O
+의 O
+메뉴판 O
+.  O
+ 
+ 
+그리스인 O
+이야기 O
+1 O
+.  O
+ 
+ 
+조금 O
+다른 O
+지구 O
+마을 O
+여행 O
+.  O
+ 
+ 
+카페 O
+마실 O
+.  O
+ 
+ 
+두 O
+남자 O
+의 O
+거침없 O
+는 O
+태국 LOCATION
+여행 O
+.  O
+ 
+ 
+그 O
+들 O
+은 O
+그 O
+집 O
+에서 O
+무슨 O
+꿈 O
+을 O
+꾸 O
+었 O
+을까 O
+.  O
+ 
+ 
+맛 O
+으로 O
+본 O
+일본 LOCATION
+.  O
+ 
+ 
+( O
+베르나르 O
+올리비에 O
+의 O
+) O
+실크로드 LOCATION
+여행 O
+스케치 O
+.  O
+ 
+ 
+세계 O
+의 O
+다리 O
+를 O
+읽 O
+다 O
+.  O
+ 
+ 
+자전거 O
+로 O
+유럽 LOCATION
+도시 O
+읽 O
+기 O
+.  O
+ 
+ 
+일본 LOCATION
+의 O
+맛 O
+, O
+규슈 LOCATION
+를 O
+먹 O
+다 O
+.  O
+ 
+ 
+중동 LOCATION
+일본 LOCATION
+맛 O
+, O
+규슈 LOCATION
+를 O
+먹 O
+다 O
+.  O
+ 
+ 
+중동 LOCATION
+을 O
+여행 O
+하 O
+다 O
+.  O
+ 
+ 
+인도 LOCATION
+싫 O
+어 O
+하 O
+거나 O
+좋 O
+아 O
+하 O
+거나 O
+.  O
+ 
+ 
+서울 LOCATION
+동경 LOCATION
+.  O
+ 
+ 
+메콩 LOCATION
+강의 O
+진주 O
+라오스 LOCATION
+.  O
+ 
+ 
+말레이시아 LOCATION
+서울 LOCATION
+동경 LOCATION
+.  O
+ 
+ 
+메콩 LOCATION
+강의 O
+진주 O
+라오스 LOCATION
+메콩 LOCATION
+강의 O
+진주 O
+라오스 LOCATION
+.  O
+ 
+ 
+말레이시아 LOCATION
+.  O
+ 
+ 
+사랑 O
+이 O
+지나가 O
+면 O
+.  O
+ 
+ 
+어떤 O
+날 O
+1 O
+.  O
+ 
+ 
+나 O
+는 O
+낚 O
+시 O
+다 O
+.  O
+ 
+ 
+( O
+주말 O
+이 O
+기다려 O
+지 O
+는 O
+) O
+행복 O
+한 O
+걷기 O
+여행 O
+.  O
+ 
+ 
+쉼표 O
+경주 O
+.  O
+ 
+ 
+스페인 LOCATION
+소도시 O
+여행 O
+.  O
+ 
+ 
+부산 LOCATION
+가 O
+자 O
+.  O
+ 
+ 
+( O
+사막 O
+에서 O
+북극 O
+까지 O
+) O
+나 O
+는 O
+달린다 O
+.  O
+ 
+ 
+메콩 LOCATION
+강의 O
+진주 O
+라오스 LOCATION
+.  O
+ 
+ 
+소심 O
+한 O
+남자 O
+의 O
+홋카이도 LOCATION
+자전거 O
+여행 O
+.  O
+ 
+ 
+여행 O
+수업 O
+vol O
+. O
+1 O
+.  O
+ 
+ 
+슬로 O
+시티 O
+를 O
+가 O
+다 O
+.  O
+ 
+ 
+돈 O
+키호테 O
+부딪혔 O
+다 O
+날 O
+았 O
+다 O
+.  O
+ 
+ 
+두근두근 O
+서울 LOCATION
+산책 O
+.  O
+ 
+ 
+삶 O
+을 O
+, O
+춤추 O
+다 O
+.  O
+ 
+ 
+제주 LOCATION
+에 O
+살 O
+어리랏다 O
+.  O
+ 
+ 
+늦 O
+게 O
+와서 O
+미안 O
+해 O
+라오스 LOCATION
+.  O
+ 
+ 
+더 O
+버스 O
+.  O
+ 
+ 
+소심 O
+한 O
+남자 O
+의 O
+홋카이도 LOCATION
+자전거 O
+여행 O
+.  O
+ 
+ 
+영남 O
+알프스 LOCATION
+오디세이 O
+.  O
+ 
+ 
+아브라함 O
+의 O
+땅 O
+유프라테스 O
+를 O
+걷 O
+다 O
+.  O
+ 
+ 
+( O
+세계 O
+배낭 O
+여행자 O
+들 O
+의 O
+안식처 O
+) O
+빠이 O
+.  O
+ 
+ 
+5 O
+천만 O
+이 O
+검색 O
+한 O
+대한민국 LOCATION
+제철 O
+여행지 O
+.  O
+ 
+ 
+화천 O
+에서 O
+놀 O
+자 O
+.  O
+ 
+ 
+아 O
+이제 O
+남미 O
+에 O
+가 O
+야겠다 O
+.  O
+ 
+ 
+아 O
+이제 O
+남미 O
+에 O
+가 O
+야겠다 O
+.  O
+ 
+ 
+( O
+추억 O
+이 O
+번지 O
+는 O
+) O
+유럽 O
+의 O
+붉 O
+은 O
+지붕 O
+.  O
+ 
+ 
+( O
+추억 O
+이 O
+번지 O
+는 O
+) O
+유럽 O
+의 O
+붉 O
+은 O
+지붕 O
+.  O
+ 
+ 
+이상 O
+은 O
+1 O
+집 O
+.  O
+ 
+ 
+대한민국 LOCATION
+마을 O
+여행 O
+.  O
+ 
+ 
+두근두근 O
+춘천 LOCATION
+산책 O
+.  O
+ 
+ 
+갈바람 O
+.  O
+ 
+ 
+유럽 LOCATION
+레일 O
+웨이 O
+시스템 O
+.  O
+ 
+ 
+자전거 O
+건축 O
+여행 O
+.  O
+ 
+ 
+자전거 O
+건축 O
+여행 O
+.  O
+ 
+ 
+268 O
+미치 O
+도록 O
+행복 O
+하 O
+다 O
+.  O
+ 
+ 
+같이 O
+오 O
+길 O
+잘 O
+했 O
+어 O
+.  O
+ 
+ 
+같이 O
+오 O
+길 O
+잘 O
+했 O
+어 O
+.  O
+ 
+ 
+죽 O
+은 O
+나무 O
+가 O
+없 O
+는 O
+숲 O
+은 O
+아름답 O
+지 O
+않 O
+다 O
+.  O
+ 
+ 
+무함마드 PERSON
+씨 O
+안녕 O
+! O
+.  O
+ 
+ 
+무함마드 PERSON
+씨 O
+안녕 O
+! O
+.  O
+ 
+ 
+1 O
+만 O
+시간 O
+동안 O
+의 O
+아시아 O
+1 O
+.  O
+ 
+ 
+1 O
+만 O
+시간 O
+동안 O
+의 O
+아시아 LOCATION
+1 O
+.  O
+ 
+ 
+가 O
+고 O
+싶 O
+을 O
+때 O
+가 O
+고 O
+싶 O
+은 O
+곳 O
+으로 O
+.  O
+ 
+ 
+늦 O
+게 O
+와서 O
+미안 O
+해 O
+라오스 LOCATION
+.  O
+ 
+ 
+돈 O
+키호테 O
+부딪혔 O
+다 O
+날 O
+았 O
+다 O
+.  O
+ 
+ 
+서촌 LOCATION
+방향 O
+.  O
+ 
+ 
+혼자 O
+여서 O
+더 O
+좋 O
+은 O
+여행 O
+.  O
+ 
+ 
+스페인 LOCATION
+.  O
+ 
+ 
+제주 LOCATION
+느리 O
+게 O
+걷 O
+기 O
+.  O
+ 
+ 
+( O
+캠핑 O
+초보 O
+를 O
+위한 O
+) O
+오토캠핑 O
+100 O
+문 O
+100 O
+답 O
+.  O
+ 
+ 
+서울 LOCATION
+걷기 O
+여행 O
+.  O
+ 
+ 
+북한산 LOCATION
+둘레길 O
+에서 O
+숨 O
+은 O
+서울 LOCATION
+찾기 O
+.  O
+ 
+ 
+소울 O
+로드 O
+.  O
+ 
+ 
+미국 LOCATION
+동부 O
+.  O
+
+ 
+ 
+스페인 LOCATION
+소도시 O
+여행 O
+.  O
+ 
+ 
+부산 LOCATION
+가 O
+자 O
+.  O
+ 
+ 
+( O
+사막 LOCATION
+에서 O
+북극 LOCATION
+까지 O
+) O
+나 O
+는 O
+달린다 O
+.  O
+ 
+ 
+메콩 LOCATION
+강의 O
+진주 O
+라오스 LOCATION
+.  O
+ 
+ 
+소심 O
+한 O
+남자 O
+의 O
+홋카이도 LOCATION
+자전거 O
+여행 O
+.  O
+ 
+ 
+여행 O
+수업 O
+vol O
+. O
+1 O
+.  O
+ 
+ 
+슬로 O
+시티 O
+를 O
+가 O
+다 O
+.  O
+ 
+ 
+돈 O
+키호테 O
+부딪혔 O
+다 O
+날 O
+았 O
+다 O
+.  O
+ 
+ 
+두근두근 O
+서울 LOCATION
+산책 O
+.  O
+ 
+ 
+삶 O
+을 O
+, O
+춤추 O
+다 O
+.  O
+ 
+ 
+제주 LOCATION
+에 O
+살 O
+어리랏다 O
+.  O
+ 
+ 
+늦 O
+게 O
+와서 O
+미안 O
+해 O
+라오스 LOCATION
+.  O
+ 
+ 
+더 O
+버스 O
+.  O
+ 
+ 
+소심 O
+한 O
+남자 O
+의 O
+홋카이도 LOCATION
+자전거 O
+여행 O
+.  O
+ 
+ 
+영남 LOCATION
+알프스 LOCATION
+오디세이 O
+.  O
+ 
+ 
+아브라함 O
+의 O
+땅 O
+유프라테스 O
+를 O
+걷 O
+다 O
+.  O
+ 
+ 
+( O
+세계 O
+배낭 O
+여행자 O
+들 O
+의 O
+안식처 O
+) O
+빠이 O
+.  O
+ 
+ 
+5 O
+천만 O
+이 O
+검색 O
+한 O
+대한민국 LOCATION
+제철 O
+여행지 O
+.  O
+ 
+ 
+화천 LOCATION
+에서 O
+놀 O
+자 O
+.  O
+ 
+ 
+아 O
+이제 O
+남미 LOCATION
+에 O
+가 O
+야겠다 O
+.  O
+ 
+ 
+아 O
+이제 O
+남미 LOCATION
+에 O
+가 O
+야겠다 O
+.  O
+ 
+ 
+( O
+추억 O
+이 O
+번지 O
+는 O
+) O
+유럽 LOCATION
+의 O
+붉 O
+은 O
+지붕 O
+.  O
+ 
+ 
+( O
+추억 O
+이 O
+번지 O
+는 O
+) O
+유럽 LOCATION
+의 O
+붉 O
+은 O
+지붕 O
+.  O
+ 
+ 
+이상 O
+은 O
+1 O
+집 O
+.  O
+ 
+ 
+대한민국 LOCATION
+마을 O
+여행 O
+.  O
+ 
+ 
+두근두근 O
+춘천 LOCATION
+산책 O
+.  O
+ 
+ 
+갈바람 O
+.  O
+ 
+ 
+유럽 LOCATION
+레일 O
+웨이 O
+시스템 O
+.  O
+ 
+ 
+자전거 O
+건축 O
+여행 O
+.  O
+ 
+ 
+자전거 O
+건축 O
+여행 O
+.  O
+ 
+ 
+268 O
+미치 O
+도록 O
+행복 O
+하 O
+다 O
+.  O
+ 
+ 
+같이 O
+오 O
+길 O
+잘 O
+했 O
+어 O
+.  O
+ 
+ 
+같이 O
+오 O
+길 O
+잘 O
+했 O
+어 O
+.  O
+ 
+ 
+죽 O
+은 O
+나무 O
+가 O
+없 O
+는 O
+숲 O
+은 O
+아름답 O
+지 O
+않 O
+다 O
+.  O
+ 
+ 
+무함마드 PERSON
+씨 O
+안녕 O
+! O
+.  O
+ 
+ 
+무함마드 PERSON
+씨 O
+안녕 O
+! O
+.  O
+ 
+ 
+1 O
+만 O
+시간 O
+동안 O
+의 O
+아시아 O
+1 O
+.  O
+ 
+ 
+1 O
+만 O
+시간 O
+동안 O
+의 O
+아시아 LOCATION
+1 O
+.  O
+ 
+ 
+가 O
+고 O
+싶 O
+을 O
+때 O
+가 O
+고 O
+싶 O
+은 O
+곳 O
+으로 O
+.  O
+ 
+ 
+늦 O
+게 O
+와서 O
+미안 O
+해 O
+라오스 LOCATION
+.  O
+ 
+ 
+돈 O
+키호테 O
+부딪혔 O
+다 O
+날 O
+았 O
+다 O
+.  O
+ 
+ 
+서촌 LOCATION
+방향 O
+.  O
+ 
+ 
+혼자 O
+여서 O
+더 O
+좋 O
+은 O
+여행 O
+.  O
+ 
+ 
+스페인 O
+.  O
+ 
+ 
+제주 LOCATION
+느리 O
+게 O
+걷 O
+기 O
+.  O
+ 
+ 
+( O
+캠핑 O
+초보 O
+를 O
+위한 O
+) O
+오토캠핑 O
+100 O
+문 O
+100 O
+답 O
+.  O
+ 
+ 
+서울 LOCATION
+걷기 O
+여행 O
+.  O
+ 
+ 
+북한산 O
+둘레길 O
+에서 O
+숨 O
+은 O
+서울 LOCATION
+찾기 O
+.  O
+ 
+ 
+소울 O
+로드 O
+.  O
+
+ 
+무함마드 O
+씨 O
+안녕 O
+! O
+.  O
+ 
+ 
+1 O
+만 O
+시간 O
+동안 O
+의 O
+아시아 LOCATION
+1 O
+.  O
+ 
+ 
+1 O
+만 O
+시간 O
+동안 O
+의 O
+아시아 LOCATION
+1 O
+.  O
+ 
+ 
+가 O
+고 O
+싶 O
+을 O
+때 O
+가 O
+고 O
+싶 O
+은 O
+곳 O
+으로 O
+.  O
+ 
+ 
+늦 O
+게 O
+와서 O
+미안 O
+해 O
+라오스 LOCATION
+.  O
+ 
+ 
+돈 O
+키호테 O
+부딪혔 O
+다 O
+날 O
+았 O
+다 O
+.  O
+ 
+ 
+서촌 LOCATION
+방향 O
+.  O
+ 
+ 
+혼자 O
+여서 O
+더 O
+좋 O
+은 O
+여행 O
+.  O
+ 
+ 
+스페인 LOCATION
+.  O
+ 
+ 
+제주 LOCATION
+느리 O
+게 O
+걷 O
+기 O
+.  O
+ 
+ 
+( O
+캠핑 O
+초보 O
+를 O
+위한 O
+) O
+오토캠핑 O
+100 O
+문 O
+100 O
+답 O
+.  O
+ 
+ 
+서울 LOCATION
+걷기 O
+여행 O
+.  O
+ 
+ 
+북한산 O
+둘레길 O
+에서 O
+숨 O
+은 O
+서울 LOCATION
+찾기 O
+.  O
+ 
+ 
+소울 O
+로드 O
+.  O
+ 
+ 
+미국 LOCATION
+동부 O
+.  O
+ 
+ 
+스페인 LOCATION
+.  O
+ 
+ 
+프라하 LOCATION
+.  O
+ 
+ 
+프라하 LOCATION
+.  O
+ 
+ 
+하동 LOCATION
+느리 O
+게 O
+걷 O
+기 O
+.  O
+ 
+ 
+청춘 O
+의 O
+발걸음 O
+은 O
+언제나 O
+뜨겁 O
+다 O
+.  O
+ 
+ 
+여행 O
+혹은 O
+여행 O
+처럼 O
+.  O
+ 
+ 
+유럽 LOCATION
+레일 O
+웨이 O
+시스템 O
+.  O
+ 
+ 
+신비 O
+의 O
+섬 O
+2 O
+.  O
+ 
+ 
+창조 O
+도시 O
+부산 LOCATION
+을 O
+께 O
+루 O
+다 O
+.  O
+ 
+ 
+파리 LOCATION
+미술관 O
+산책 O
+.  O
+ 
+ 
+나누 O
+어 O
+진 O
+하늘 O
+.  O
+ 
+ 
+헛된 O
+기다림 O
+.  O
+ 
+ 
+알렉산드리아 O
+사중주 O
+.  O
+ 
+ 
+춘천 LOCATION
+부산 LOCATION
+께 O
+루 O
+다 O
+.  O
+ 
+ 
+파리 LOCATION
+미술관 O
+산책 O
+.  O
+ 
+ 
+나누 O
+어 O
+진 O
+하늘 O
+.  O
+ 
+ 
+헛된 O
+기다림 O
+.  O
+ 
+ 
+알렉산드리아 LOCATION
+파리 LOCATION
+미술관 O
+산책 O
+.  O
+ 
+ 
+나누 O
+어 O
+진 O
+하늘 O
+.  O
+ 
+ 
+헛된 O
+기다림 O
+.  O
+ 
+ 
+알렉산드리아 O
+사중주 O
+.  O
+ 
+ 
+춘천 LOCATION
+.  O
+ 
+ 
+고흐 PERSON
+의 O
+편지 O
+2 O
+.  O
+ 
+ 
+클래식 O
+영국사 O
+.  O
+ 
+ 
+제주 LOCATION
+를 O
+맛보 O
+다 O
+.  O
+ 
+ 
+루타 O
+40 O
+.  O
+ 
+ 
+( O
+디스 O
+커버 O
+) O
+뉴욕 LOCATION
+.  O
+ 
+ 
+( O
+디스 O
+커버 O
+) O
+뉴욕 LOCATION
+.  O
+ 
+ 
+스페인 LOCATION
+.  O
+ 
+ 
+스페인 LOCATION
+.  O
+ 
+ 
+유럽 LOCATION
+정원 O
+을 O
+거닐 O
+다 O
+.  O
+ 
+ 
+사랑 O
+이 O
+지 O
+는 O
+이 O
+자리 O
+.  O
+ 
+ 
+여행 O
+의 O
+사고 O
+2 O
+.  O
+ 
+ 
+파리 LOCATION
+에서 O
+의 O
+신경질 O
+.  O
+ 
+ 
+괌 LOCATION
+· O
+사이판 LOCATION
+.  O
+ 
+ 
+서울 LOCATION
+여자 O
+가 O
+걷 O
+기 O
+좋 O
+은 O
+길 O
+.  O
+ 
+ 
+유럽 LOCATION
+레일 O
+웨이 O
+시스템 O
+.  O
+ 
+ 
+마지막 O
+콘서트 O
+.  O
+ 
+ 
+필리핀 LOCATION
+완전 O
+정복 O
+.  O
+ 
+ 
+사계절 O
+전라도 LOCATION
+.  O
+ 
+ 
+일본 LOCATION
+체험 O
+사전 O
+.  O
+ 
+ 
+( O
+행복 O
+이 O
+번지 O
+는 O
+곳 O
+) O
+크로아티아 LOCATION
+.  O
+ 
+ 
+레오나르도   PERSON
+다   PERSON
+빈치 PERSON
+노트북 O
+.  O
+ 
+ 
+( O
+이태훈 O
+의 O
+) O
+뷰티풀 O
+티베트 O
+.  O
+ 
+ 
+유럽 LOCATION
+같 O
+은 O
+국내 O
+여행지 O
+.  O
+ 
+ 
+( O
+조지 PERSON
+워싱턴 PERSON
+부터 O
+아들 O
+부시 PERSON
+까지 O
+퇴임 O
+후 O
+로 O
+본 O
+) O
+미국 LOCATION
+대통령 O
+의 O
+역사 O
+.  O
+ 
+ 
+어쩌면 O
+가능 O
+한 O
+만남 O
+들 O
+.  O
+ 
+ 
+열대 O
+식당 O
+.  O
+ 
+ 
+밀크 O
+의 O
+지구 O
+사 O
+.  O
+ 
+ 
+세계사 O
+의 O
+운명 O
+을 O
+바꾼 O
+해도 O
+.  O
+ 
+ 
+세계 O
+의 O
+신화 O
+.  O
+ 
+ 
+미미 O
+동경 LOCATION
+.  O
+ 
+ 
+인도 LOCATION
+민화 O
+로 O
+떠나 O
+는 O
+신화 O
+여행 O
+.  O
+ 
+ 
+( O
+스칼라 PERSON
+피노 PERSON
+교수 O
+의 O
+) O
+新 O
+동방견문록 O
+.  O
+ 
+ 
+( O
+사막 LOCATION
+에서 O
+북극 LOCATION
+까지 O
+) O
+나 O
+는 O
+달린다 O
+.  O
+ 
+ 
+( O
+초보 O
+캠퍼 O
+를 O
+위한 O
+) O
+올 O
+어바웃 O
+캠핑 O
+.  O
+ 
+ 
+오 O
+후의 O
+서울 LOCATION
+산책 O
+.  O
+ 
+ 
+여행 O
+의 O
+목적지 O
+는 O
+여행 O
+이 O
+다 O
+.  O
+ 
+ 
+LA LOCATION
+에 O
+반 O
+하 O
+다 O
+.  O
+ 
+ 
+밴쿠버 LOCATION
+에 O
+반하 O
+다 O
+.  O
+ 
+ 
+( O
+서니 O
+베일 O
+체리 O
+의 O
+101 O
+가지 O
+) O
+라스베이거스 LOCATION
+에 O
+반 O
+하 O
+다 O
+.  O
+ 
+ 
+홍콩 LOCATION
+에 O
+반 O
+하 O
+다 O
+.  O
+ 
+ 
+홍콩 O
+에 O
+반하 O
+다 O
+.  O
+ 
+ 
+타이베이 LOCATION
+에 O
+반 O
+하 O
+다 O
+.  O
+ 
+ 
+타이베이 LOCATION
+에 O
+반 O
+하 O
+다 O
+.  O
+ 
+ 
+( O
+행복 O
+이 O
+번지 O
+는 O
+곳 O
+) O
+크로아티아 LOCATION
+.  O
+ 
+ 
+( O
+행복 O
+이 O
+번지 O
+는 O
+곳 O
+) O
+크로아티아 LOCATION
+.  O
+ 
+ 
+( O
+달콤 O
+함 O
+이 O
+번지 O
+는 O
+곳 O
+) O
+벨기에 LOCATION
+.  O
+ 
+ 
+( O
+달콤 O
+함 O
+이 O
+번지 O
+는 O
+곳 O
+) O
+벨기에 LOCATION
+.  O
+ 
+ 
+( O
+사랑 O
+이 O
+번지 O
+는 O
+곳 O
+) O
+불가리아 LOCATION
+.  O
+ 
+ 
+( O
+사랑 O
+이 O
+번지 O
+는 O
+곳 O
+) O
+불가리아 LOCATION
+.  O
+ 
+ 
+홍차 FOOD
+의 O
+세계사 O
+그림 O
+으로 O
+읽 O
+다 O
+.  O
+ 
+ 
+나 O
+는 O
+걷 O
+는다 O
+1 O
+.  O
+ 
+ 
+커피 FOOD
+의 O
+역사 O
+.  O
+ 
+ 
+불한당 O
+들 O
+의 O
+미국 LOCATION
+사 O
+.  O
+ 
+ 
+그래도 O
+나 O
+는 O
+서울 LOCATION
+이 O
+좋 O
+다 O
+.  O
+ 
+ 
+스페인 LOCATION
+미술관 O
+산책 O
+.  O
+ 
+ 
+서울 LOCATION
+올레길 O
+육 O
+백 O
+년 O
+도성 O
+길 O
+.  O
+ 
+ 
+그리스 LOCATION
+사상 O
+과 O
+아랍 O
+문명 O
+.  O
+ 
+ 
+시악 O
+시 O
+의 O
+마음 O
+.  O
+ 
+ 
+하얀 O
+성 O
+.  O
+ 
+ 
+픽션 O
+들 O
+.  O
+ 
+ 
+시칠리아 LOCATION
+에서 O
+의 O
+대화 O
+.  O
+ 
+ 
+시르 O
+트 O
+의 O
+바닷가 O
+.  O
+ 
+ 
+버스 O
+정류장 O
+.  O
+ 
+ 
+산 O
+도 O
+칸 O
+.  O
+ 
+ 
+까라마조프 PERSON
+씨네 O
+형제 O
+들 O
+중 O
+.  O
+ 
+ 
+이토록 O
+긴 O
+편지 O
+.  O
+ 
+ 
+원수 O
+들 O
+사랑 O
+이야기 O
+.  O
+ 
+ 
+뉴욕 LOCATION
+3 O
+부작 O
+.  O
+ 
+ 
+추운 O
+나라 O
+에서 O
+돌아온 O
+스파이 O
+.  O
+ 
+ 
+미 O
+라마르 O
+.  O
+ 
+ 
+핏빛 O
+자오선 O
+.  O
+ 
+ 
+내 O
+이름 O
+은 O
+빨강 O
+1 O
+.  O
+ 
+ 
+어느 O
+도시 O
+아가씨 O
+의 O
+아주 O
+우아 O
+한 O
+시골 O
+생활 O
+.  O
+ 
+ 
+태양 O
+은 O
+노랗 O
+게 O
+타오른다 O
+2 O
+.  O
+ 
+ 
+더블린 O
+사람 O
+들 O
+.  O
+ 
+ 
+알렉산드리아 O
+사중주 O
+.  O
+ 
+ 
+광막 O
+한 O
+사르가소 LOCATION
+바다 O
+.  O
+ 
+ 
+콘트레라스 PERSON
+선장 O
+의 O
+모험 O
+.  O
+ 
+ 
+홍콩 LOCATION
+맛집 O
+.  O
+ 
+ 
+나 O
+는 O
+걷 O
+는다 O
+3 O
+.  O
+ 
+ 
+강원도 LOCATION
+의 O
+힘 O
+.  O
+ 
+ 
+비잔티움 O
+.  O
+ 
+ 
+만들 O
+어 O
+진 O
+전통 O
+.  O
+ 
+ 
+잊혀진 O
+계절 O
+.  O
+ 
+ 
+( O
+맛 O
+천국 O
+! O
+) O
+홍콩 LOCATION
+식도락 O
+탐험 O
+vol O
+. O
+2 O
+.  O
+ 
+ 
+세르비아 LOCATION
+역사 O
+.  O
+ 
+ 
+( O
+모던 O
+하 O
+고 O
+빈티지 O
+한 O
+도시 O
+) O
+빈 LOCATION
+을 O
+소개 O
+합니다 O
+.  O
+ 
+ 
+한식 FOOD
+세계 O
+를 O
+요리 O
+하 O
+라 O
+.  O
+ 
+ 
+음표 O
+로 O
+글 O
+을 O
+쓰 O
+다 O
+.  O
+ 
+ 
+두근두근 O
+강남 LOCATION
+산책 O
+.  O
+ 
+ 
+두근두근 O
+중구 LOCATION
+산책 O
+.  O
+ 
+ 
+글 O
+속 O
+에 O
+살 O
+아 O
+숨 O
+쉬 O
+다 O
+.  O
+ 
+ 
+뉴욕 LOCATION
+을 O
+맛보 O
+다 O
+.  O
+ 
+ 
+오케이 O
+가족 O
+캠핑 O
+.  O
+ 
+ 
+네 O
+개의 O
+도쿄 LOCATION
+.  O
+ 
+ 
+( O
+고대 O
+문명 O
+과 O
+예술 O
+을 O
+찾 O
+아 O
+떠난 O
+) O
+세계 O
+커피 FOOD
+기행 O
+1 O
+.  O
+ 
+ 
+( O
+고대 O
+문명 O
+과 O
+예술 O
+을 O
+찾 O
+아 O
+떠난 O
+) O
+세계 O
+커피 FOOD
+기행 O
+2 O
+.  O
+ 
+ 
+카르파티아 LOCATION
+성 O
+.  O
+ 
+ 
+황제 O
+의 O
+밀사 O
+2 O
+.  O
+ 
+ 
+15 O
+소년 O
+표류기 O
+2 O
+.  O
+ 
+ 
+불타 O
+버린 O
+지도 O
+.  O
+ 
+ 
+죽 O
+기 O
+전 O
+에 O
+꼭 O
+가 O
+야 O
+할 O
+세계 O
+휴양지 O
+1001 O
+.  O
+ 
+ 
+스트라빈스키 PERSON
+.  O
+ 
+ 
+빌리 O
+홀리데이 O
+.  O
+ 
+ 
+페기 O
+구겐하임 O
+.  O
+ 
+ 
+글렌 O
+굴드 O
+.  O
+ 
+ 
+자코메티 O
+.  O
+ 
+ 
+오늘 O
+은 O
+나 O
+를 O
+바다 O
+로 O
+데려가 O
+줘 O
+.  O
+ 
+ 
+악마 O
+를 O
+찾 O
+아서 O
+.  O
+ 
+ 
+클래식 O
+영국 LOCATION
+사 O
+.  O
+ 
+ 
+색 O
+으로 O
+떠나 O
+는 O
+세계 O
+여행 O
+.  O
+ 
+ 
+하이 O
+크레이지 O
+.  O
+ 
+ 
+네덜란드 LOCATION
+.  O
+ 
+ 
+상상력 O
+의 O
+전시장 O
+엑스포 O
+.  O
+ 
+ 
+서울 LOCATION
+사계절 O
+걷 O
+고 O
+싶 O
+은 O
+길 O
+110 O
+.  O
+ 
+ 
+이치현 PERSON
+과 O
+벗 O
+님 O
+들 O
+.  O
+ 
+ 
+서울 LOCATION
+풍경 O
+화첩 O
+.  O
+ 
+ 
+달리 O
+는 O
+청춘 O
+의 O
+詩 O
+.  O
+ 
+ 
+( O
+신화 O
+학자 O
+정재서 PERSON
+교수 O
+가 O
+들려주 O
+는 O
+) O
+이야기 O
+동양 O
+신화 O
+.  O
+ 
+ 
+인디언 O
+마을 O
+공화국 O
+.  O
+ 
+ 
+인도 LOCATION
+에 O
+미치 O
+다 O
+.  O
+ 
+ 
+김영 PERSON
+교수 O
+의 O
+영국 LOCATION
+김영 PERSON
+교수 O
+의 O
+영국 O
+문화 O
+기행 O
+.  O
+ 
+ 
+( O
+클림트 O
+에서 O
+프로이트 O
+까지 O
+) O
+빈 LOCATION
+클림트 PERSON
+서 O
+프로이트 PERSON
+까지 O
+) O
+빈 O
+이 O
+사랑 O
+한 O
+천재 O
+들 O
+.  O
+ 
+ 
+러시아 LOCATION
+문화사 O
+강의 O
+.  O
+ 
+ 
+지리산 LOCATION
+둘레길 O
+.  O
+ 
+ 
+( O
+산 O
+넘 O
+고 O
+물 O
+건너 O
+) O
+아메리카 LOCATION
+캠핑 O
+로드 O
+.  O
+ 
+ 
+검 O
+은 O
+밤 O
+의 O
+무지개 O
+.  O
+ 
+ 
+( O
+로마 LOCATION
+의 O
+전설 O
+을 O
+만든 O
+) O
+카이사르 PERSON
+로마 LOCATION
+전설 O
+을 O
+만든 O
+) O
+카이사르 O
+군단 O
+.  O
+ 
+ 
+거꾸로 O
+달리 O
+는 O
+미국 O
+.  O
+ 
+ 
+초원 O
+실크로드 LOCATION
+미국 LOCATION
+.  O
+ 
+ 
+초원 O
+실크 O
+로드 O
+를 O
+가 O
+다 O
+.  O
+ 
+ 
+에티오피아 LOCATION
+13 O
+월 O
+의 O
+태양 O
+이 O
+뜨 O
+는 O
+나라 O
+.  O
+ 
+ 
+올레 O
+감수 O
+광 O
+.  O
+ 
+ 
+지중해 LOCATION
+삼국지 O
+.  O
+ 
+ 
+열대 O
+식당 O
+.  O
+ 
+ 
+프로방스 LOCATION
+프로방스 LOCATION
+.  O
+ 
+ 
+스위트 O
+도쿄 LOCATION
+.  O
+ 
+ 
+제주 LOCATION
+를 O
+맛보 O
+다 O
+.  O
+ 
+ 
+제주 LOCATION
+도쿄 LOCATION
+.  O
+ 
+ 
+제주 LOCATION
+를 O
+맛보 O
+다 O
+.  O
+ 
+ 
+제주 LOCATION
+를 O
+걷 O
+다 O
+.  O
+ 
+ 
+( O
+마르코 O
+폴로 O
+의 O
+) O
+동방견문록 O
+.  O
+ 
+ 
+잠시 O
+만 O
+어깨 O
+를 O
+빌려 O
+줘 O
+.  O
+ 
+ 
+냠냠 O
+도쿄 LOCATION
+.  O
+ 
+ 
+열 O
+두 O
+명의 O
+카이사르 PERSON
+.  O
+ 
+ 
+런던 LOCATION
+이 O
+사랑 O
+한 O
+천재 O
+들 O
+.  O
+ 
+ 
+여행 O
+가방 O
+속 O
+의 O
+책 O
+.  O
+ 
+ 
+( O
+거품 O
+뺀 O
+가격 O
+에 O
+감동 O
+하 O
+고 O
+명품 O
+맛 O
+에 O
+반하 O
+는 O
+) O
+착한 O
+와인 O
+집 O
+.  O
+ 
+ 
+도쿄 LOCATION
+맛집 O
+.  O
+ 
+ 
+아시아 LOCATION
+크루즈 O
+.  O
+ 
+ 
+일본 LOCATION
+아시아 LOCATION
+크루즈 O
+.  O
+ 
+ 
+일본 LOCATION
+드럭스토어 O
+탐험 O
+.  O
+ 
+ 
+중국 LOCATION
+의 O
+자연 O
+유산 O
+.  O
+ 
+ 
+유럽 LOCATION
+의 O
+맛집 O
+.  O
+ 
+ 
+랄랄라 O
+! O
+홍콩 LOCATION
+.  O
+ 
+ 
+사랑 O
+앞 O
+에서 O
+.  O
+ 
+ 
+어떤 O
+날 O
+1 O
+.  O
+ 
+ 
+어떤 O
+날 O
+3 O
+.  O
+ 
+ 
+빌 O
+브라이슨 O
+발칙 O
+한 O
+영어 O
+산책 O
+.  O
+ 
+ 
+인류 O
+의 O
+위대 O
+한 O
+여행 O
+.  O
+ 
+ 
+( O
+비어 O
+헌트 O
+이기중 O
+의 O
+) O
+유럽 LOCATION
+맥주 O
+견문록 O
+.  O
+ 
+ 
+( O
+바르셀로나 LOCATION
+미식가 O
+의 O
+집 O
+) O
+까사구르메 O
+.  O
+ 
+ 
+( O
+사진 O
+과 O
+그림 O
+으로 O
+보 O
+는 O
+) O
+케임브리지 O
+독일 LOCATION
+케임브리지 ORGANIZATION
+독일 O
+사 O
+.  O
+ 
+ 
+두근두근 O
+종로 LOCATION
+산책 O
+.  O
+ 
+ 
+두근두근 O
+춘천 LOCATION
+산책 O
+.  O
+ 
+ 
+전주 LOCATION
+느리 O
+게 O
+걷 O
+기 O
+.  O
+ 
+ 
+나 O
+를 O
+치유 O
+하 O
+는 O
+산사 O
+기행 O
+.  O
+ 
+ 
+( O
+CIA O
+요리 O
+학교 O
+에서 O
+만들 O
+어 O
+가 O
+는 O
+달콤 O
+한 O
+) O
+뉴욕 LOCATION
+레시피 O
+.  O
+ 
+ 
+( O
+주말 O
+이 O
+기다려 O
+지 O
+는 O
+) O
+숲 O
+속 O
+걷기 O
+여행 O
+.  O
+ 
+ 
+찾아가 O
+고 O
+싶 O
+은 O
+대한민국 LOCATION
+명품 O
+녹색길 O
+33 O
+.  O
+ 
+ 
+한 O
+권 O
+으로 O
+만나 O
+는 O
+인도 LOCATION
+.  O
+ 
+ 
+( O
+조지 PERSON
+워싱턴 PERSON
+부터 O
+아들 O
+부시 O
+까지 O
+퇴임 O
+후 O
+로 O
+본 O
+) O
+미국 LOCATION
+부시 PERSON
+지 O
+퇴임 O
+후 O
+로 O
+본 O
+) O
+미국 LOCATION
+대통령 O
+의 O
+역사 O
+.  O
+ 
+ 
+나 O
+는 O
+낚 O
+시 O
+다 O
+.  O
+ 
+ 
+스파르타쿠스 PERSON
+전쟁 O
+.  O
+ 
+ 
+( O
+한국인 O
+이 O
+사랑 O
+하 O
+는 O
+) O
+오래된 O
+한식당 O
+.  O
+ 
+ 
+똘 O
+끼 O
+50 O
+cc O
+스쿠터 O
+로 O
+유라시아 LOCATION
+를 O
+횡단 O
+하 O
+다 O
+.  O
+ 
+ 
+탱 O
+구 O
+리의 O
+중남미 LOCATION
+다이어리 O
+.  O
+ 
+ 
+슬로 O
+시티 O
+에 O
+취하 O
+다 O
+.  O
+ 
+ 
+( O
+영혼 O
+의 O
+휴식 O
+을 O
+찾 O
+아 O
+떠나 O
+는 O
+) O
+힐링 O
+여행 O
+.  O
+ 
+ 
+디스 O
+이즈 O
+아프리카 LOCATION
+.  O
+ 
+ 
+카우치 O
+서핑 O
+.  O
+ 
+ 
+커리 O
+의 O
+지구 O
+사 O
+.  O
+ 
+ 
+인생 O
+을 O
+바꾸 O
+는 O
+7 O
+일 O
+간 O
+의 O
+여행 O
+.  O
+ 
+ 
+아이스크림 FOOD
+의 O
+지구 O
+사 O
+.  O
+ 
+ 
+아마존 O
+.  O
+ 
+ 
+내 O
+생애 O
+첫 O
+도쿄 LOCATION
+여행 O
+.  O
+ 
+ 
+잇츠 O
+캠핑 O
+.  O
+ 
+ 
+( O
+대한민국 LOCATION
+) O
+걷 O
+기 O
+좋 O
+은 O
+길 O
+111 O
+.  O
+ 
+ 
+감동 O
+의 O
+여로 O
+.  O
+ 
+ 
+( O
+단숨에 O
+읽 O
+는 O
+) O
+해적 O
+의 O
+역사 O
+.  O
+ 
+ 
+아웃 O
+오브 O
+아프리카 LOCATION
+.  O
+ 
+ 
+목로주점 O
+하 O
+.  O
+ 
+ 
+도나 O
+플로르 O
+와 O
+그녀 O
+의 O
+두 O
+남편 O
+상 O
+.  O
+ 
+ 
+염소 O
+의 O
+축제 O
+2 O
+.  O
+ 
+ 
+빙하 O
+와 O
+어둠 O
+의 O
+공포 O
+.  O
+ 
+ 
+쳇 O
+베이커 O
+.  O
+ 
+ 
+모레아 LOCATION
+기행 O
+.  O
+ 
+ 
+러시아 LOCATION
+기행 O
+.  O
+ 
+ 
+쿡 O
+' O
+스 O
+투어 O
+.  O
+ 
+ 
+( O
+사바 O
+이디 O
+) O
+라오스 LOCATION
+.  O
+ 
+ 
+도시 O
+수집가 O
+.  O
+ 
+ 
+미국 LOCATION
+의 O
+운명 O
+을 O
+결정 O
+한 O
+여섯 O
+가지 O
+이야기 O
+.  O
+ 
+ 
+대한민국 LOCATION
+사진 O
+여행 O
+.  O
+ 
+ 
+멕시코 LOCATION
+의 O
+역사 O
+.  O
+ 
+ 
+로마 LOCATION
+제국 O
+쾌락 O
+의 O
+역사 O
+.  O
+ 
+ 
+( O
+처음 O
+읽 O
+는 O
+) O
+러시아 LOCATION
+대한민국 LOCATION
+사진 O
+여행 O
+.  O
+ 
+ 
+멕시코 LOCATION
+의 O
+역사 O
+.  O
+ 
+ 
+로마 O
+제국 O
+쾌락 O
+의 O
+역사 O
+.  O
+ 
+ 
+( O
+처음 O
+읽 O
+는 O
+) O
+러시아 LOCATION
+역사 O
+.  O
+ 
+ 
+오래 O
+된 O
+신세계 O
+.  O
+ 
+ 
+드로잉 O
+모로코 LOCATION
+.  O
+ 
+ 
+양희은 PERSON
+1991 O
+.  O
+ 
+ 
+양수경 PERSON
+2 O
+.  O
+ 
+ 
+못다 O
+한 O
+고백 O
+.  O
+ 
+ 
+여행스케치 O
+.  O
+ 
+ 
+윤수일 PERSON
+Band O
+2 O
+집 O
+.  O
+ 
+ 
+고아 O
+얼굴 O
+.  O
+ 
+ 
+은희 O
+專屬 O
+記念 O
+第 O
+1 O
+集 O
+.  O
+ 
+ 
+내 O
+가 O
+아 O
+는 O
+한 O
+가지 O
+.  O
+ 
+ 
+그곳 O
+이 O
+차마 O
+꿈 O
+엔들 O
+잊힐리야 O
+! O
+.  O
+ 
+ 
+나팔바지 O
+.  O
+ 
+ 
+다시 O
+만난 O
+너 O
+에게 O
+.  O
+ 
+ 
+무한대 O
+.  O
+ 
+ 
+孫夕友 O
+힛트퍼레이드 O
+.  O
+ 
+ 
+해바라기 O
+.  O
+ 
+ 
+여고 O
+졸업반 O
+.  O
+ 
+ 
+이름 O
+모를 O
+소녀 O
+.  O
+ 
+ 
+봄 O
+여름 O
+가을 O
+겨울 O
+.  O
+ 
+ 
+오랜만 O
+에 O
+.  O
+ 
+ 
+천리 O
+길 O
+.  O
+ 
+ 
+리사이틀 O
+實況 O
+錄 O
+音 O
+.  O
+ 
+ 
+가슴 O
+아프 O
+게 O
+.  O
+ 
+ 
+임 O
+과 O
+함께 O
+.  O
+ 
+ 
+' O
+78 O
+대학 O
+가요제 O
+.  O
+ 
+ 
+새벽 O
+기차 O
+.  O
+ 
+ 
+" O
+뚜 O
+와 O
+에 O
+무 O
+와 O
+" O
+히트 O
+앨범 O
+第 O
+1 O
+集 O
+.  O
+ 
+ 
+사랑 O
+해 O
+주 O
+오 O
+무지개 O
+戀 O
+人 O
+.  O
+ 
+ 
+별 O
+이 O
+빛나 O
+는 O
+밤 O
+에 O
+.  O
+ 
+ 
+맷돌 O
+.  O
+ 
+ 
+베스트 O
+.  O
+ 
+ 
+상처 O
+.  O
+ 
+ 
+떠나 O
+야 O
+할 O
+그 O
+사람 O
+누가 O
+다시 O
+말 O
+해요 O
+오솔길 O
+을 O
+따라서 O
+.  O
+ 
+ 
+사랑 O
+의 O
+모닥불 O
+낙화유수 O
+.  O
+ 
+ 
+김건모 PERSON
+.  O
+ 
+ 
+유럽 LOCATION
+의 O
+명문 O
+서점 O
+.  O
+ 
+ 
+칸쿤 O
+홀리데이 O
+.  O
+ 
+ 
+세상 O
+의 O
+모든 O
+고독 O
+아이슬란드 LOCATION
+.  O
+ 
+ 
+어느 O
+멋진 O
+일주일 O
+, O
+러시아 LOCATION
+아이슬란드 LOCATION
+어느 O
+멋진 O
+일주일 O
+, O
+러시아 O
+.  O
+ 
+ 
+당신 O
+의 O
+마음 O
+.  O
+ 
+ 
+누구 O
+라도 O
+그러 O
+하 O
+듯이 O
+.  O
+ 
+ 
+여고 O
+시절 O
+.  O
+ 
+ 
+이정선 O
+.  O
+ 
+ 
+이리저리 O
+.  O
+ 
+ 
+으스름달밤 O
+.  O
+ 
+ 
+너 O
+만 O
+을 O
+위하 O
+여 O
+바다 O
+는 O
+내 O
+마음 O
+.  O
+ 
+ 
+엘리 O
+지 O
+의 O
+女 O
+王 O
+.  O
+ 
+ 
+노래 O
+는 O
+흘러 O
+40 O
+年 O
+人生 O
+도 O
+흘러 O
+40 O
+年 O
+.  O
+ 
+ 
+오 O
+! O
+우짤 O
+고 O
+.  O
+ 
+ 
+신중현 PERSON
+이정선 PERSON
+이리저리 O
+.  O
+ 
+ 
+으스름달밤 O
+.  O
+ 
+ 
+너 O
+만 O
+을 O
+위하 O
+여 O
+바다 O
+는 O
+내 O
+마음 O
+.  O
+ 
+ 
+엘리 O
+지 O
+의 O
+女 O
+王 O
+.  O
+ 
+ 
+노래 O
+는 O
+흘러 O
+40 O
+年 O
+人生 O
+도 O
+흘러 O
+40 O
+年 O
+.  O
+ 
+ 
+오 O
+! O
+우짤 O
+고 O
+.  O
+ 
+ 
+신중현 O
+Sound O
+.  O
+ 
+ 
+' O
+77 O
+대학 O
+가요제 O
+1 O
+집 O
+.  O
+ 
+ 
+담 O
+배강 O
+( O
+江 O
+) O
+.  O
+ 
+ 
+어젯밤 O
+이야기 O
+.  O
+ 
+ 
+송골매 O
+II O
+.  O
+ 
+ 
+송골매 O
+III O
+.  O
+ 
+ 
+그 O
+후 O
+로 O
+오랫동안 O
+. O
+.  O
+ 
+ 
+아무 O
+도 O
+없 O
+지만 O
+.  O
+ 
+ 
+신촌 LOCATION
+Blues O
+.  O
+ 
+ 
+신촌 LOCATION
+Blues O
+II O
+.  O
+ 
+ 
+신해철 PERSON
+.  O
+ 
+ 
+그때 O
+그 O
+사람 O
+.  O
+ 
+ 
+아름다운 O
+사람 O
+아 O
+아름다운 O
+노래 O
+를 O
+.  O
+ 
+ 
+아침 O
+이슬 O
+.  O
+ 
+ 
+양희은 PERSON
+.  O
+ 
+ 
+어떤 O
+날 O
+I O
+.  O
+ 
+ 
+오석준 PERSON
+장필순 PERSON
+박정운 PERSON
+.  O
+ 
+ 
+꿈 O
+나무 O
+.  O
+ 
+ 
+사랑 O
+이 O
+여 O
+.  O
+ 
+ 
+2 O
+적 O
+.  O
+ 
+ 
+조하문 PERSON
+Vol O
+. O
+2 O
+.  O
+ 
+ 
+님 O
+아 O
+! O
+.  O
+ 
+ 
+내 O
+작 O
+은 O
+입술 O
+에 O
+.  O
+ 
+ 
+내곁에 O
+있 O
+어 O
+주 O
+오 O
+.  O
+ 
+ 
+사랑 O
+이 O
+란 O
+말 O
+은 O
+너무너무 O
+흔해 O
+.  O
+ 
+ 
+내 O
+마음 O
+은 O
+곱 O
+다오 O
+.  O
+ 
+ 
+연안 O
+부두 O
+.  O
+ 
+ 
+人生 O
+은 O
+酒幕 O
+목요일 O
+밤 O
+.  O
+ 
+ 
+두 O
+어머니 O
+의 O
+비밀 O
+누구 O
+를 O
+위해 O
+.  O
+ 
+ 
+노고지리 O
+.  O
+ 
+ 
+윤형주 O
+.  O
+ 
+ 
+김세환 O
+애창곡 O
+모음 O
+.  O
+ 
+ 
+난 O
+아직 O
+모르 O
+잖아요 O
+.  O
+ 
+ 
+孤 O
+鷹 O
+( O
+고안 O
+) O
+東京 O
+나그네 O
+.  O
+ 
+ 
+서울 O
+이여 O
+안녕 O
+.  O
+ 
+ 
+두 O
+마음 O
+.  O
+ 
+ 
+나 O
+의 O
+거리 O
+.  O
+ 
+ 
+조용한 O
+미소 O
+밤차 O
+.  O
+ 
+ 
+그건 O
+너 O
+.  O
+ 
+ 
+고독 O
+소녀 O
+.  O
+ 
+ 
+이 O
+거리 O
+를 O
+생각 O
+하 O
+세요 O
+.  O
+ 
+ 
+내게 O
+남 O
+은 O
+사랑 O
+을 O
+드릴께요 O
+.  O
+ 
+ 
+빨간 O
+마후라 O
+.  O
+ 
+ 
+전인권 PERSON
+허성욱 PERSON
+1979 DATE
+- O
+1987 DATE
+추억 O
+들국화 O
+.  O
+ 
+ 
+바람 O
+이 O
+었 O
+나 O
+.  O
+ 
+ 
+서글픈 O
+日曜日 O
+.  O
+ 
+ 
+정태춘 O
+박은옥 O
+.  O
+ 
+ 
+그대 O
+내 O
+맘 O
+에 O
+들어오 O
+며 O
+는 O
+. O
+.  O
+ 
+ 
+조동진 PERSON
+.  O
+ 
+ 
+조동진 PERSON
+3 O
+.  O
+ 
+ 
+크리스마스 O
+캐롤 O
+.  O
+ 
+ 
+창밖 O
+의 O
+여자 O
+.  O
+ 
+ 
+미워 O
+미워 O
+미워 O
+.  O
+ 
+ 
+눈물 O
+로 O
+보이 O
+는 O
+그대 O
+.  O
+ 
+ 
+허공 O
+.  O
+ 
+ 
+울 O
+면서 O
+후회 O
+하 O
+네 O
+.  O
+ 
+ 
+잃어버린 O
+시간 O
+을 O
+찾 O
+아서 O
+. O
+1 O
+.  O
+ 
+ 
+잃어버린 O
+시간 O
+을 O
+찾 O
+아서 O
+. O
+4 O
+.  O
+ 
+ 
+짝사랑 O
+.  O
+ 
+ 
+잠깐 O
+만 O
+.  O
+ 
+ 
+秦芳 O
+男 O
+흘러간 O
+노래 O
+手帖 O
+.  O
+ 
+ 
+사랑 O
+의 O
+終末 O
+.  O
+ 
+ 
+내 O
+마음 O
+갈 O
+곳 O
+을 O
+잃 O
+어 O
+.  O
+ 
+ 
+동행 O
+.  O
+ 
+ 
+최성원 PERSON
+.  O
+ 
+ 
+물보라 O
+.  O
+ 
+ 
+세월 O
+오동 O
+잎 O
+.  O
+ 
+ 
+앵두 O
+.  O
+ 
+ 
+우리 O
+애인 O
+은 O
+올드 O
+미쓰 O
+.  O
+ 
+ 
+그녀 O
+입술 O
+은 O
+달콤 O
+해 O
+.  O
+ 
+ 
+특선 O
+2 O
+집 O
+해변 O
+으로 O
+가요 O
+.  O
+ 
+ 
+바닷가 O
+의 O
+추억 O
+.  O
+ 
+ 
+목 O
+이 O
+메여 O
+.  O
+ 
+ 
+벽오동 O
+영혼 O
+.  O
+ 
+ 
+사랑 O
+하 O
+는 O
+마리아 O
+.  O
+ 
+ 
+패티 O
+金 O
+吉屋潤 O
+結婚 O
+記念 O
+.  O
+ 
+ 
+사랑 O
+의 O
+앨범 O
+.  O
+ 
+ 
+난생 O
+처음 O
+.  O
+ 
+ 
+흘러간 O
+힛트송 O
+韓福 O
+男 O
+對 O
+朴 O
+載 O
+弘 O
+.  O
+ 
+ 
+사랑 O
+으로 O
+.  O
+ 
+ 
+아름다운 O
+사람 O
+.  O
+ 
+ 
+당신 O
+만 O
+을 O
+사랑 O
+해 O
+.  O
+ 
+ 
+黃貞 O
+子 O
+歌謠 O
+힛트앨범 O
+.  O
+ 
+ 
+他鄕 O
+사리 O
+.  O
+ 
+ 
+길 O
+.  O
+ 
+ 
+가을 O
+편지 O
+.  O
+ 
+ 
+새벽길 O
+.  O
+ 
+ 
+상록수 O
+.  O
+ 
+ 
+黃 O
+天 O
+길 O
+.  O
+ 
+ 
+눈물 O
+젖 O
+은 O
+두만강 LOCATION
+.  O
+ 
+ 
+김정수 PERSON
+.  O
+ 
+ 
+각자 O
+의 O
+밤 O
+.  O
+ 
+ 
+어떻게 O
+해 O
+.  O
+ 
+ 
+이리저리 O
+.  O
+ 
+ 
+사랑 O
+의 O
+日記 O
+사랑 O
+의 O
+자장가 O
+.  O
+ 
+ 
+아니 O
+라고 O
+.  O
+ 
+ 
+신중현 PERSON
+의 O
+In O
+- O
+a O
+- O
+Kadda O
+- O
+Da O
+- O
+Vida O
+.  O
+ 
+ 
+He O
+6 O
+와 O
+함께 O
+고고 O
+를 O
+! O
+.  O
+ 
+ 
+윤희정 O
+.  O
+ 
+ 
+죄수복 O
+옥중 O
+인터뷰 O
+음반 O
+.  O
+ 
+ 
+봄 O
+햇님 O
+.  O
+ 
+ 
+마지막 O
+승부 O
+.  O
+ 
+ 
+혼자 O
+남 O
+는 O
+법안 O
+개꽃 O
+꽃말 O
+은 O
+슬픔 O
+.  O
+ 
+ 
+이상우 O
+2 O
+.  O
+ 
+ 
+이상우 PERSON
+이상우 PERSON
+2 O
+.  O
+ 
+ 
+이상우 O
+.  O
+ 
+ 
+내곁에 O
+있 O
+어 O
+주 O
+오 O
+.  O
+ 
+ 
+사랑 O
+이 O
+저만치 O
+가 O
+네 O
+.  O
+ 
+ 
+머나먼 O
+고향 O
+.  O
+ 
+ 
+울 O
+긴 O
+왜 O
+울 O
+어 O
+.  O
+ 
+ 
+장기하 PERSON
+와 O
+얼굴 O
+들 O
+.  O
+ 
+ 
+별일 O
+없이 O
+산다 O
+.  O
+ 
+ 
+님 O
+.  O
+ 
+ 
+哀愁 O
+의 O
+小夜曲 O
+.  O
+ 
+ 
+노래 O
+를 O
+찾 O
+는 O
+사람 O
+들 O
+1 O
+.  O
+ 
+ 
+노래 O
+를 O
+찾 O
+는 O
+사람 O
+들 O
+2 O
+.  O
+ 
+ 
+노사연 O
+III O
+.  O
+ 
+ 
+흐린 O
+가을 O
+하늘 O
+에 O
+편지 O
+를 O
+써 O
+.  O
+ 
+ 
+상처 O
+입 O
+은 O
+사랑 O
+.  O
+ 
+ 
+소리 O
+.  O
+ 
+ 
+멈추 O
+지 O
+말 O
+아요 O
+.  O
+ 
+ 
+붉 O
+은 O
+태양 O
+.  O
+ 
+ 
+먼 O
+훗날 O
+에 O
+.  O
+ 
+ 
+돌아가 O
+는 O
+三 O
+角紙 O
+.  O
+ 
+ 
+0 O
+時 O
+의 O
+離 O
+別 O
+.  O
+ 
+ 
+홀로 O
+된다는 O
+것 O
+.  O
+ 
+ 
+변 O
+진 PERSON
+섭 O
+2 O
+.  O
+ 
+ 
+변진섭 PERSON
+III O
+.  O
+ 
+ 
+봄여름가을겨울 O
+2 O
+.  O
+ 
+ 
+제 O
+1 O
+회 O
+해변 O
+가요제 O
+.  O
+ 
+ 
+여자 O
+여자 O
+여자 O
+.  O
+ 
+ 
+시인 O
+과 O
+촌장 O
+.  O
+ 
+ 
+미 O
+소속 O
+에 O
+비친 O
+그대 O
+.  O
+ 
+ 
+비속 O
+의 O
+女 O
+人 O
+.  O
+ 
+ 
+미인 O
+.  O
+ 
+ 
+사랑 O
+의 O
+의지 O
+.  O
+ 
+ 
+오늘 O
+나 O
+는 O
+.  O
+ 
+ 
+강산 O
+에 O
+.  O
+ 
+ 
+비오 O
+는 O
+날 O
+수채화 O
+1 O
+.  O
+ 
+ 
+빛 O
+과 O
+그림자 O
+.  O
+ 
+ 
+김민기 PERSON
+강산에 PERSON
+비오 O
+는 O
+날 O
+수채화 O
+1 O
+.  O
+ 
+ 
+빛 O
+과 O
+그림자 O
+.  O
+ 
+ 
+김민기 O
+.  O
+ 
+ 
+울산 O
+큰애기 O
+.  O
+ 
+ 
+옛 O
+친구 O
+.  O
+ 
+ 
+작 O
+은 O
+거 O
+인 O
+김수철 PERSON
+2 O
+.  O
+ 
+ 
+킴ㆍ씨스터 O
+- O
+즈 O
+첫 O
+앨범 O
+.  O
+ 
+ 
+현대 O
+중동 O
+의 O
+탄생 O
+.  O
+ 
+ 
+어느 O
+날 O
+문득 O
+, O
+Berlin LOCATION
+중동 LOCATION

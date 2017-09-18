@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module org.jetbrains.idea.maven.project.MavenProjectsManager.isMavenModule="true" type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="web" name="Web">
+      <configuration>
+        <descriptors>
+          <deploymentDescriptor name="web.xml" url="file://$MODULE_DIR$/extra/web.xml" />
+        </descriptors>
+        <webroots>
+          <root url="file://$MODULE_DIR$/extra" relative="/WEB-INF" />
+        </webroots>
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_8" inherit-compiler-output="false">
+    <output url="file://$MODULE_DIR$/target/classes" />
+    <output-test url="file://$MODULE_DIR$/target/test-classes" />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/demo" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+      <excludeFolder url="file://$MODULE_DIR$/target" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="servlet-api" level="project" />
+    <orderEntry type="library" name="Maven: org.bitbucket.eunjeon:seunjeon_2.11:1.3.0" level="project" />
+    <orderEntry type="library" name="Maven: org.scala-lang:scala-library:2.11.7" level="project" />
+    <orderEntry type="library" scope="RUNTIME" name="Maven: org.slf4j:slf4j-jdk14:1.7.12" level="project" />
+    <orderEntry type="library" name="Maven: org.slf4j:slf4j-api:1.7.12" level="project" />
+    <orderEntry type="library" name="Maven: com.typesafe.scala-logging:scala-logging_2.11:3.5.0" level="project" />
+    <orderEntry type="library" name="Maven: org.scala-lang:scala-reflect:2.11.8" level="project" />
+  </component>
+</module>
